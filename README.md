@@ -2,7 +2,7 @@
 
 Data and scripts to accompany our research on the phylogenomics and morphological evolution of Australian microhylid frogs.  
 
-![FrogImage](Figures/Cophixalus_Map.png)
+![FrogImage](Figures/Frog_Illustrations/Cophixalus_zweifeli.png)
 
 ## [Alignments](https://github.com/IanGBrennan/Microhylidae/tree/main/Alignments)  
 Individual locus and concatenated alignments of new AHE data (*Asterophryinae...*) combined with microhylid samples from Hime et al. 2021 (*Microhylidae_Combined...*.  
